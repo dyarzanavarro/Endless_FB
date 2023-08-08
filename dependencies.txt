@@ -48,4 +48,4 @@ com.unity.modules.video@1.0.0
 com.unity.modules.vr@1.0.0
 com.unity.modules.wind@1.0.0
 com.unity.modules.xr@1.0.0
-BF_yallo_Endless@0.1
+BF_yallo@0.2
